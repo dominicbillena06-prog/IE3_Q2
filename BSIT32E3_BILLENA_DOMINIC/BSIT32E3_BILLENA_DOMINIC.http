@@ -1,0 +1,6 @@
+@BSIT32E3_BILLENA_DOMINIC_HostAddress = http://localhost:5168
+
+GET {{BSIT32E3_BILLENA_DOMINIC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
